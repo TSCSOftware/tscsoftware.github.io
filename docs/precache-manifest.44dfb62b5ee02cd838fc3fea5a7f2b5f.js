@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/7-2.jpg"
   },
   {
-    "revision": "3491859a59abc64cdea9",
-    "url": "/css/app.98817ea4.css"
+    "revision": "d94d8bb0a2b7a56f5101",
+    "url": "/css/app.4a308704.css"
   },
   {
     "revision": "e8d94c1ee2357c6a70fd",
@@ -140,12 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/me.aff0452d.jpg"
   },
   {
-    "revision": "463fc5d57c8c9e080be4bd8c6a65759b",
+    "revision": "5ca4b8c2c656f1733e89348eb28ceb03",
     "url": "/index.html"
   },
   {
-    "revision": "3491859a59abc64cdea9",
-    "url": "/js/app.3c6467af.js"
+    "revision": "d94d8bb0a2b7a56f5101",
+    "url": "/js/app.0c695ec9.js"
   },
   {
     "revision": "e8d94c1ee2357c6a70fd",
@@ -154,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1770c2524b653c4741436956a1f7f256",
     "url": "/manifest.json"
+  },
+  {
+    "revision": "25678b5ff3c45eb89aa75d31075375ef",
+    "url": "/mathsvid.html"
   },
   {
     "revision": "2ca5c39ac6f12eb7d29ad4e83c3a9cd8",
@@ -178,5 +182,49 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "248b589f68cf1beb4d4e53e02b8cd9b5",
     "url": "/sitemap.xml"
+  },
+  {
+    "revision": "a5ea5fd5b87a7292f2014c48c7899163",
+    "url": "/videoplayer/bk.jpg"
+  },
+  {
+    "revision": "dc366fc84a718dedad8673d131a0c868",
+    "url": "/videoplayer/css/bootstrap.min.css"
+  },
+  {
+    "revision": "9a2925f60c98ad716216097210d1c190",
+    "url": "/videoplayer/css/slick.css"
+  },
+  {
+    "revision": "47ea60edcd992613f3f0ca57f3ca65d1",
+    "url": "/videoplayer/css/templatemo-style.css"
+  },
+  {
+    "revision": "7d385303ac800cc7e785144497dd5344",
+    "url": "/videoplayer/index.html"
+  },
+  {
+    "revision": "86c66103329d2d376c5ec84117058497",
+    "url": "/videoplayer/js/bootstrap.min.js"
+  },
+  {
+    "revision": "12b69d0ae6c6f0c42942ae6da2896e84",
+    "url": "/videoplayer/js/jquery-3.5.1.min.js"
+  },
+  {
+    "revision": "da910267cd968a7d269efaed738025bd",
+    "url": "/videoplayer/js/slick.js"
+  },
+  {
+    "revision": "177a803c5a3bef2dab28a76a73704830",
+    "url": "/videoplayer/js/templatemo-script.js"
+  },
+  {
+    "revision": "13a1e413d690ad274b5e14cfee7fae5f",
+    "url": "/videos/ecathala.html"
+  },
+  {
+    "revision": "da61b9c0b20243ead736410783174589",
+    "url": "/videos/vectors.html"
   }
 ]);
